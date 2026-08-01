@@ -18,16 +18,16 @@
 
 ### 👨‍💻 About Me
 
-Senior Data Engineer with 4+ years building **cloud-native analytics platforms on GCP and AWS** for ad tech and B2B SaaS clients. I specialize in BigQuery warehousing, Airflow orchestration, dbt, and Airbyte — and recently shipped a **production MCP server** that exposes AI-powered data agents as Claude-native tools, letting marketers query and forecast campaign performance in natural language.
+Data engineer building cloud-native analytics platforms and AI-powered data products on GCP and AWS. I work on advertising data infrastructure at **AdConversion** — BigQuery as the warehouse, Airflow for orchestration, dbt for transformation, Airbyte for ingestion across YouTube, LinkedIn, and Meta paid media sources.
 
-Previously delivered ETL infrastructure for **HBL** (Pakistan's largest bank) risk management program. I hold an MSc in Computer Science from FAST-NUCES, Karachi.
+Recently shipped a production MCP server that exposes AI data agents as Claude-native tools, letting marketers query, forecast, and predict campaign performance in plain English — no SQL required. Cut Airbyte cloud spend ~60% by redesigning sync strategies while holding data freshness SLAs across all sources.
 
-- 🔭 Currently building advertising analytics infrastructure at **AdConversion**
-- 🤖 Shipped production **MCP + Claude** integration for natural language SQL over paid media data
-- 🏗️ Reduced Airbyte cloud spend **~60%** through incremental sync redesign
-- 💬 Ask me about **BigQuery, dbt, Airflow, Airbyte, GCP, AWS, MCP**
-- 📫 Reach me at **afzalsolangi.ali@gmail.com**
-- 📍 Karachi, Pakistan
+Before that: ETL pipelines at **Cubd** (UK) across BigQuery and Snowflake, and before that, the Enterprise Risk Management data infrastructure at **HBL** — Pakistan's largest bank — covering fraud monitoring, write-off tracking, and customer master data.
+
+MSc Computer Science · FAST-NUCES, Karachi.
+
+- 💬 Ask me about **BigQuery · dbt · Airflow · Airbyte · GCP · AWS · MCP**
+- 📫 **afzalsolangi.ali@gmail.com** · 📍 Karachi, Pakistan
 
 ---
 
