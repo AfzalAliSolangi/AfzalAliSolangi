@@ -59,6 +59,7 @@ Previously delivered ETL infrastructure for **HBL** (Pakistan's largest bank) ri
 ![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![GCS](https://img.shields.io/badge/GCS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Secret Manager](https://img.shields.io/badge/Secret%20Manager-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Compute Engine](https://img.shields.io/badge/Compute%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
@@ -108,6 +109,18 @@ Previously delivered ETL infrastructure for **HBL** (Pakistan's largest bank) ri
 
 ---
 
+**IaC & DevOps**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
 **Web**
 
 <p>
@@ -127,7 +140,12 @@ Previously delivered ETL infrastructure for **HBL** (Pakistan's largest bank) ri
 | [**openai-ads-mcp-server**](https://github.com/AfzalAliSolangi/openai-ads-mcp-server) | MCP server with 12 tools over the OpenAI Ads API · deployed on Cloudflare Workers · two-layer auth via KV |
 | [**openai-ads-bigquery-pipeline**](https://github.com/AfzalAliSolangi/openai-ads-bigquery-pipeline) | Incremental campaign metrics → BigQuery via Cloud Run + Scheduler · per-table watermarking · multi-client provisioning |
 | [**bask-webhook-cloudrun-bq-ingestion**](https://github.com/AfzalAliSolangi/bask-webhook-cloudrun-bq-ingestion) | 18 Cloud Run Gen2 functions · lossless failure model · schema drift lands in queryable failed partition |
+| [**aws-realtime-clickstream-pipeline**](https://github.com/AfzalAliSolangi/aws-realtime-clickstream-pipeline) | Kinesis → Firehose → Lambda → S3 → Glue → Athena · full Terraform IaC · queryable within minutes, no DB infra |
+| [**GoogleAds-MCP-Server**](https://github.com/AfzalAliSolangi/GoogleAds-MCP-Server) | Multi-tenant Google Ads MCP server on Cloudflare Workers (TypeScript) · GAQL searchStream · OAuth PKCE · per-client scoped endpoints |
+| [**Reddit_To_BigQuery_Airflow**](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow) | Reddit API → Airflow → GCS → Dataproc → BigQuery · ephemeral GCP resources torn down after each run |
+| [**GCP_Weather_IoT_Simulation_Pipeline**](https://github.com/AfzalAliSolangi/GCP_Weather_IoT_Simulation_Pipeline) | Simulated IoT sensors → Pub/Sub → Dataflow (real-time transform) → BigQuery · end-to-end streaming on GCP |
 | [**Fathom-Meeting-Analyzer**](https://github.com/AfzalAliSolangi/Fathom-Meeting-Analyzer) | HMAC-signed Fathom webhook → Claude Haiku summarization → Slack · Google Sheets prompt-testing side channel |
+| [**Drug-Supply-Chain-using-Blockchain**](https://github.com/AfzalAliSolangi/Drug-Supply-Chain-using-Blockchain) | Blockchain-backed drug supply chain management · Multichain + Django · QR code traceability |
 
 ---
 
