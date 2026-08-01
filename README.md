@@ -1,101 +1,119 @@
-<h1 align="center">Hi, I'm Afzal Ali Solangi 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Afzal+Ali+Solangi+%F0%9F%91%8B;Senior+Data+Engineer+%7C+GCP+%7C+dbt+%7C+Airflow;Building+AI-powered+data+products+with+MCP" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <b>Senior Data Engineer · GCP · BigQuery · Airflow · dbt · AI/MCP</b><br/>
-  Building cloud-native analytics platforms and AI-powered data products
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/afzal-ali-solangi-190979232"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:afzalsolangi.ali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AfzalAliSolangi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/afzal-ali-solangi-190979232" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:afzalsolangi.ali@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AfzalAliSolangi&label=Profile+Views&color=58a6ff&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-- 🔭 Senior Data Engineer at **AdConversion** — building end-to-end advertising analytics on GCP
-- 🤖 Shipped a production **MCP server** exposing AI-powered data agents as Claude-native tools
-- 🧠 4+ years delivering cloud-native pipelines for **ad tech** and **B2B SaaS** clients
-- 🏦 Previously built ETL infrastructure for **HBL** (Pakistan's largest bank) risk management program
-- 🎓 MSc Computer Science · BSc Electrical Engineering — FAST-NUCES, Karachi
-- 📍 Based in Karachi, Pakistan
+Senior Data Engineer with 4+ years building **cloud-native analytics platforms on GCP** for ad tech and B2B SaaS clients. I specialize in BigQuery warehousing, Airflow orchestration, dbt, and Airbyte — and recently shipped a **production MCP server** that exposes AI-powered data agents as Claude-native tools, letting marketers query and forecast campaign performance in natural language.
+
+Previously delivered ETL infrastructure for **HBL** (Pakistan's largest bank) risk management program. I hold an MSc in Computer Science from FAST-NUCES, Karachi.
+
+- 🔭 Currently building advertising analytics infrastructure at **AdConversion**
+- 🤖 Shipped production **MCP + Claude** integration for natural language SQL over paid media data
+- 🏗️ Reduced Airbyte cloud spend **~60%** through incremental sync redesign
+- 💬 Ask me about **BigQuery, dbt, Airflow, Airbyte, GCP, MCP**
+- 📫 Reach me at **afzalsolangi.ali@gmail.com**
+- 📍 Karachi, Pakistan
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL/PostgreSQL" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</p>
 
-**GCP**
+**Cloud & Infrastructure**
 
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GCS](https://img.shields.io/badge/GCS-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**AWS**
-
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+<p>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</p>
 
 **Data Engineering**
 
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Fivetran](https://img.shields.io/badge/Fivetran-0073FF?style=flat-square&logo=fivetran&logoColor=white)
+<p>
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" width="40" height="40"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="PySpark" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
+</p>
 
-**AI & MCP**
+**AI & Web**
 
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-**Edge & CDN**
-
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</p>
 
 ---
 
-### Featured Projects
+### 📌 Featured Projects
 
-| Project | Description |
+| Project | What it does |
 |---|---|
-| [**openai-ads-mcp-server**](https://github.com/AfzalAliSolangi/openai-ads-mcp-server) | Read-only MCP server exposing 12 tools over the OpenAI Ads API, deployed on Cloudflare Workers with two-layer auth and Cloudflare KV key resolution |
-| [**openai-ads-bigquery-pipeline**](https://github.com/AfzalAliSolangi/openai-ads-bigquery-pipeline) | Incremental ingestion of OpenAI Ads campaign metrics into BigQuery via Cloud Run + Cloud Scheduler, with per-table watermarking and parallel multi-client provisioning |
-| [**bask-webhook-cloudrun-bq-ingestion**](https://github.com/AfzalAliSolangi/bask-webhook-cloudrun-bq-ingestion) | 18 Cloud Run Functions (Gen2) receiving health-platform webhooks into BigQuery with lossless failure model — schema drift lands in a queryable failed partition |
-| [**Fathom-Meeting-Analyzer**](https://github.com/AfzalAliSolangi/Fathom-Meeting-Analyzer) | HMAC-signed Fathom webhook → Claude (Haiku) structured summarization → Slack, with a Google Sheets side channel for prompt iteration |
+| [**openai-ads-mcp-server**](https://github.com/AfzalAliSolangi/openai-ads-mcp-server) | MCP server with 12 tools over the OpenAI Ads API · deployed on Cloudflare Workers · two-layer auth via KV |
+| [**openai-ads-bigquery-pipeline**](https://github.com/AfzalAliSolangi/openai-ads-bigquery-pipeline) | Incremental campaign metrics → BigQuery via Cloud Run + Scheduler · per-table watermarking · multi-client provisioning |
+| [**bask-webhook-cloudrun-bq-ingestion**](https://github.com/AfzalAliSolangi/bask-webhook-cloudrun-bq-ingestion) | 18 Cloud Run Gen2 functions · lossless failure model · schema drift lands in queryable failed partition |
+| [**Fathom-Meeting-Analyzer**](https://github.com/AfzalAliSolangi/Fathom-Meeting-Analyzer) | HMAC-signed Fathom webhook → Claude Haiku summarization → Slack · Google Sheets prompt-testing side channel |
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfzalAliSolangi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalAliSolangi&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AfzalAliSolangi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfzalAliSolangi&theme=github-dark-blue&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalAliSolangi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="150" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to interesting data engineering and AI/MCP infrastructure roles.</i><br/>
-  <a href="mailto:afzalsolangi.ali@gmail.com">afzalsolangi.ali@gmail.com</a>
+  <i>Open to senior data engineering and AI/MCP infrastructure roles · <a href="mailto:afzalsolangi.ali@gmail.com">afzalsolangi.ali@gmail.com</a></i>
 </p>
