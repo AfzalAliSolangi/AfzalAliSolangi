@@ -7,8 +7,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;
-  <a href="mailto:afzalsolangi.ali@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
+  <a href="https://leetcode.com/u/afzal030828/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=AfzalAliSolangi&label=Profile+Views&color=58a6ff&style=flat" alt="Profile views" />
@@ -18,11 +18,11 @@
 
 ### 👨‍💻 About Me
 
-Data engineer building cloud-native analytics platforms and AI-powered data products on GCP and AWS. I work on advertising data infrastructure at **AdConversion** — BigQuery as the warehouse, Airflow for orchestration, dbt for transformation, Airbyte for ingestion across YouTube, LinkedIn, and Meta paid media sources.
+Data engineer building cloud-native analytics platforms and AI-powered data products on GCP and AWS. I work on advertising data infrastructure at **AdConversion**: BigQuery as the warehouse, Airflow for orchestration, dbt for transformation, Airbyte for ingestion across YouTube, LinkedIn, and Meta paid media sources.
 
-Recently shipped a production MCP server that exposes AI data agents as Claude-native tools, letting marketers query, forecast, and predict campaign performance in plain English — no SQL required. Cut Airbyte cloud spend ~60% by redesigning sync strategies while holding data freshness SLAs across all sources.
+Recently shipped a production MCP server that exposes AI data agents as Claude-native tools, letting marketers query, forecast, and predict campaign performance in plain English with no SQL required. Cut Airbyte cloud spend ~60% by redesigning sync strategies while holding data freshness SLAs across all sources.
 
-Before that: ETL pipelines at **Cubd** (UK) across BigQuery and Snowflake, and before that, the Enterprise Risk Management data infrastructure at **HBL** — Pakistan's largest bank — covering fraud monitoring, write-off tracking, and customer master data.
+Before that: ETL pipelines at **Cubd** (UK) across BigQuery and Snowflake, and before that, the Enterprise Risk Management data infrastructure at **HBL** (Pakistan's largest bank), covering fraud monitoring, write-off tracking, and customer master data.
 
 MSc Computer Science · FAST-NUCES, Karachi.
 
