@@ -136,7 +136,7 @@ Previously delivered ETL infrastructure for **HBL** (Pakistan's largest bank) ri
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AfzalAliSolangi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfzalAliSolangi&theme=github-dark-blue&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=AfzalAliSolangi&theme=github-dark-blue&hide_border=true" height="170" />
 </p>
 
 <p align="center">
